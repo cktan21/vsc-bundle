@@ -2,7 +2,7 @@
   "name": "rust-bundle",
   "displayName": "rust",
   "version": "1.0.0",
-  "publisher": "1YiB",
+  "publisher": "cktan21",
   "description": "extensions for rust",
   "categories": [
     "Extension Packs"
@@ -17,18 +17,20 @@
   },
   "extensionPack": [
     "rust-lang.rust-analyzer",
-    "serayuzgur.crates",
-    "dustypomerleau.rust-syntax"
+    "BarbossHack.crates-io",
+    "dustypomerleau.rust-syntax",
+    "tamasfe.even-better-toml",
+    "vadimcn.vscode-lldb"
   ],
   "license": "LICENSE",
   "markdown": "github",
   "bugs": {
-    "url": "https://github.com/1YiB/vsc-bundle/issues",
-    "email": "1YiB@proton.me"
+    "url": "https://github.com/cktan21/vsc-bundle/issues",
+    "email": ""
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/1YiB/vsc-bundle"
+    "url": "https://github.com/cktan21/vsc-bundle"
   },
-  "homepage": "https://github.com/1YiB/vsc-bundle/tree/main/rust"
+  "homepage": "https://github.com/cktan21/vsc-bundle/tree/main/rust"
 }
