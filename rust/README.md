@@ -1,5 +1,5 @@
 <h3 align="center">
-    rust-bundle
+    rust-bundle (new)
 </h3>
 <h6 align="center">
     <a href="#about">about</a>
@@ -27,8 +27,11 @@
 | Extension | Stats |
 |---|---|
 | `rust-lang.rust-analyzer` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/rust-lang.rust-analyzer.svg?&logo=visualstudiocode&color=A3BE8C) |
-| `serayuzgur.crates` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/serayuzgur.crates.svg?&logo=visualstudiocode&color=A3BE8C) |
-| `njpwerner.autodocstring` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/njpwerner.autodocstring.svg?&logo=visualstudiocode&color=A3BE8C) |
+| ~~`serayuzgur.crates`~~ | ~~![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/serayuzgur.crates.svg?&logo=visualstudiocode&color=A3BE8C)~~ |
+|***NEW*** `BarbossHack.crates-io` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/BarbossHack.crates-io.svg?&logo=visualstudiocode&color=A3BE8C) |
+| `dustypomerleau.rust-syntax` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/dustypomerleau.rust-syntax.svg?&logo=visualstudiocode&color=A3BE8C) |
+| ***NEW*** `tamasfe.even-better-toml` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/tamasfe.even-better-toml.svg?&logo=visualstudiocode&color=A3BE8C) |
+| ***NEW*** `vadimcn.vscode-lldb` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/vadimcn.vscode-lldb.svg?&logo=visualstudiocode&color=A3BE8C) |
 
 
 <br />
@@ -38,13 +41,13 @@
 
 1. press: <kbd>Ctrl + P</kbd>
 
-2. type `ext install 1YiB.rust-bundle`
+2. type `ext install cktan21.rust-bundle`
 
 3. press <kbd>Enter</kbd>
 
 ### contribute
 
-- repo: [`url`](https://github.com/1YiB/vsc-bundle/tree/main/rust)
+- repo: [`url`](https://github.com/cktan21/vsc-bundle/tree/main/rust)
 - suggest extensions to add in the form of issues
 
 - create pull request for adding extensions
