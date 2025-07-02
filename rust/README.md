@@ -21,7 +21,7 @@
 ### about
 
 
-- bundle of rust extensions for better development , all extensions packaged are given below.
+- UPDATED bundle of rust extensions for better development , all extensions packaged are given below.
 
 
 | Extension | Stats |
@@ -41,7 +41,7 @@
 
 1. press: <kbd>Ctrl + P</kbd>
 
-2. type `ext install cktan21.rust-bundle`
+2. type `ext install cktan21.rust-bundle-new`
 
 3. press <kbd>Enter</kbd>
 
